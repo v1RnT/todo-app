@@ -30,9 +30,9 @@ You can check out the page by the link: \
 
 The app uses three API endpoints:
 
-GET /todos - Fetches all todos from the server. \
-DELETE /todos/:id - Deletes a specific todo. \
-PATCH /todos/:id - Updates a specific todo.
+**GET /todos** - Fetches all todos from the server. \
+**DELETE /todos/:id** - Deletes a specific todo. \
+**PATCH /todos/:id** - Updates a specific todo.
 
 ## Installation
 
