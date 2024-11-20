@@ -24,7 +24,7 @@ You can check out the page by the link: \
 
 - **useState** for managing state.
 - **useEffect** for handling side effects like data fetching.
-- **useMemo** and useCallback for performance optimization.
+- **useMemo** and **useCallback** for performance optimization.
 
 ## API Integration
 
