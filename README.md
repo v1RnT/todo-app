@@ -72,4 +72,5 @@ Feel free to reach out if you have any questions or feedback:
 
 Telegram: [@v1rnt](https://t.me/v1RnT) \
 LinkedIn: [Vitalii Mlynetskyi](https://www.linkedin.com/in/vitalii-mlynetskyi-62823727b/) \
-Email: mlynetskyivitalii@gmail.com
+Email: mlynetskyivitaliy@gmail.com
+
